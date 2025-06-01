@@ -61,7 +61,7 @@ If you have improvements or want to add new problems or topics, feel free to for
 
 ## 📫 Connect
 
-📧 Email: [dhruvin5805@gmail.com](mailto:dhruvin.mavani.career@gmail.com)  
+📧 Email: [dhruvin.mavani.career@gmail.com](mailto:dhruvin.mavani.career@gmail.com)  
 🔗 GitHub: [@dhruvin58](https://github.com/dhruvin58)
 
 ---
